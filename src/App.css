@@ -12,11 +12,17 @@ div{
     box-sizing: border-box;
 }
 .list{
-    padding-left: 20px;
-    padding-bottom: 20px;
     text-align: left;
     border-bottom: 1px solid grey;
-    margin-bottom:20px;
+    align-items: center; /* 수직 중앙 정렬 */
+    padding: 10px 20px; /* 패딩 조정 */
+    margin-bottom: 20px;
+    position: relative;
+}
+.delete-btn{
+    position:absolute;
+    right:50px;
+    top:50px;
 }
 .modal{
     margin-top : 20px;
@@ -24,3 +30,4 @@ div{
     background : #eee;
     text-align : left;
 }
+
