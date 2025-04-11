@@ -1,0 +1,94 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "아이스 그린티 킷캣",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/e21e640d28b57bea66a3b6088a9031ba.png"
+    },
+    {
+      "id": 2,
+      "name": "피치 요거트",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/fd1b61565b616ae04864840360b7cd9d.png"
+    },
+    {
+      "id": 3,
+      "name": "망고 탱고",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/86b27ac5d1c957f087fedf5b85112ec6.png"
+    },
+    {
+      "id": 4,
+      "name": "민트 블리스",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/8d5d05796a25abe91ab26e3ff8cfb4e2.png"
+    },
+    {
+      "id": 5,
+      "name": "허니 크런치",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/bce95152aa2cdef66dd35f8bd232c859.png"
+    },
+    {
+      "id": 6,
+      "name": "블랙 소르베",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/62f1f363048e043f75a6ee14cb38e2e7.png"
+    },
+    {
+      "id": 7,
+      "name": "블루베리 요거트",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/a8ab3cb918353a71c352281b4500109e.png"
+    },
+    {
+      "id": 8,
+      "name": "팥있는 말차당",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/a81514af31293af029d8fc175217ea0a.png"
+    },
+    {
+      "id": 9,
+      "name": "탕탕 스트로베리",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/f07ccfd1696255f8b9379a64bb87527c.png"
+    },
+    {
+      "id": 10,
+      "name": "체리쥬빌레",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/f6609e3e3431d54beceeb1d3787403af.png"
+    },
+    {
+      "id": 11,
+      "name": "애플 민트",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/eec8cef386cf6697768a89b384c07bf7.png"
+    },
+    {
+      "id": 12,
+      "name": "엄마는 외계인",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/91c8668227bcf556c43a968b97e342e6.png"
+    },
+    {
+      "id": 13,
+      "name": "슈팅스타",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/a4b71e8b99743c93a7824331850b0a3d.png"
+    },
+    {
+      "id": 14,
+      "name": "이상한 나라의 솜사탕",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/4db4f9967ad6f603837a40eede965ef0.png"
+    },
+    {
+      "id": 15,
+      "name": "초콜릿 무스",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/0d67607c2ca4dde4ec24ac8109a343c2.png"
+    },
+    {
+      "id": 16,
+      "name": "그린티",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/a6bd7bcdd6bdb56f28df7e98f051abda.png"
+    },
+    {
+      "id": 17,
+      "name": "자모카 아몬드 훠지",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/f31388da0371388c2086a7c90990a097.png"
+    },
+    {
+      "id": 18,
+      "name": "레인보우 샤베트",
+      "url": "https://www.baskinrobbins.co.kr/upload/product/main/5ad63f3af7244a666d981a1497a39fe7.png"
+    }
+  ]
+}
